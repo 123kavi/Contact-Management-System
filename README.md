@@ -6,7 +6,6 @@
 
 
 
-![iStock-470913486_web PGMT for Scientisst](https://user-images.githubusercontent.com/71486601/166139641-7efed106-9e62-4642-82a5-fc1d15635f97.jpg)
 
 
 ## Tools and Technologies
